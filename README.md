@@ -5,7 +5,7 @@ This goal of this Lab1 is to implement a language identifier (LID) trained on th
 The first model is based on Naive Bayes whereas the second is on Logistic Regression. <br>
 
 ## NLP_week1_lab2
-Introduction to wordvectors
+In this lab2, our aim is just to introduce the wordvectors.
 
 ## NLP_week1_lab3
-It is about n-gram models
+The goal of this last lab is to learn the n-gram models.
